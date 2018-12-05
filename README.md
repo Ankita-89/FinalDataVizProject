@@ -1,1 +1,1 @@
-# This repository contains final infographic , jupyter notebook including world map color coded with normalized happiness score and interactive world map using google maps and javascript.
+# This repository contains final dataviz project components : infographic , jupyter notebook including world map color coded with normalized happiness score and interactive world map using google maps and javascript. Also, includes the visualizations which we performed in second part and extended to the third part to create the world map. 
